@@ -31,5 +31,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy" : "http://localhost:1997"
+  "proxy": "http://localhost:1997"
 }
