@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-image: url('./city.jpeg');
+  background-attachment: fixed;
+  color: aqua;
+}
+
+h1{
+  grid-column: 1/3;
+  grid-row: 1;
+}
+
+.form-group{
+  margin: 1%;
+  padding: 1%;
+}

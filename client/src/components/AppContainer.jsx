@@ -103,6 +103,7 @@ class AppContainer extends Component {
                                         <p>Name: {character.name}</p>
                                         <p>Gender: {character.gender}</p>
                                         <p>Age: {character.age}</p>
+                                        <br/>
                                     </div>
                                 )
                             }
